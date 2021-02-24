@@ -1,10 +1,13 @@
 # Magic_Boxen
 
+## What has your space heater done for you lately? Keep you warm?
+## Mine pays me for the privilege. 
 
 It's pretty much exactly as one might imagine using an ASIC to heat your house with.
 
 
 https://github.com/PointyFluff/Magic_Boxen
+
 NOTE: THIS IS FOR INFORMATION ONLY!!!
 
 I AM NOT AN EXPERT! I AM NOT TELLING YOU TO DO THIS.
